@@ -55,6 +55,7 @@ dkms.conf
 *.dwo
 tracer
 mini_strace
+seccomp_open_block
 programa
 programa_exe
 archivo.txt
